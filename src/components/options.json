@@ -1,0 +1,17 @@
+[
+  {
+    "id": "id-1",
+    "name": "Good",
+    "value": 0
+  },
+  {
+    "id": "id-2",
+    "name": "Neutral",
+    "value": 0
+  },
+  {
+    "id": "id-3",
+    "name": "Bad",
+    "value": 0
+  }
+]
